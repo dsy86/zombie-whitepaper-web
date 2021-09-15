@@ -33,5 +33,3 @@ Fight Club vs Zombies是一款基于区块链技术开发的NFT僵尸对战社�
 真正实现free-to-play到play-to-earn的转变
 {% endhint %}
 
-
-
