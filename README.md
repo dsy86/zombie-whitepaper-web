@@ -15,7 +15,7 @@ Fight Club vs Zombies是一款基于区块链技术开发的NFT僵尸对战社�
 
 玩家是Fight Club的管理者，每个Fighter都是独一无二的NFT资产，玩家可以招募、购买和出售自己的Fighter，组成强大的Fight Club，与其他玩家一起对抗僵尸。
 
-有关Fighters更多介绍，请前往：
+如需了解更多有关Fighters的信息，请前往：
 
 {% page-ref page="gameplay/fighters.md" %}
 
