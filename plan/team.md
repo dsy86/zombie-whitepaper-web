@@ -2,7 +2,7 @@
 
 ## Drake
 
-Founder & CEO
+#### Founder & CEO
 
 ![](../.gitbook/assets/tu-pian-1.png)
 
@@ -10,7 +10,7 @@ Founder & CEO
 
 ## Robert
 
-Lead Development Engineer
+#### Lead Development Engineer
 
 ![](../.gitbook/assets/tu-pian-2.jpg)
 
@@ -18,7 +18,7 @@ Lead Development Engineer
 
 ## Aidan
 
-Lead Designer
+#### Lead Designer
 
 ![](../.gitbook/assets/tu-pian-3.jpg)
 
@@ -26,7 +26,7 @@ Lead Designer
 
 ## Jacob
 
-Lead Artist
+#### Lead Artist
 
 ![](../.gitbook/assets/tu-pian-4.jpg)
 
@@ -34,7 +34,7 @@ Lead Artist
 
 ## Jerry
 
-Development Engineer
+#### Development Engineer
 
 ![](../.gitbook/assets/tu-pian-5.jpg)
 
@@ -42,7 +42,7 @@ An experienced full-stack engineer who has successfully managed mobile game dev 
 
 ## Luc
 
-Artist
+#### Artist
 
 ![](../.gitbook/assets/tu-pian-6.jpg)
 
@@ -50,7 +50,7 @@ A truly passionate artist and gamer with years of experience in digital art crea
 
 ## Chadd
 
-Development Engineer
+#### Development Engineer
 
 ![](../.gitbook/assets/tu-pian-7.jpg)
 
@@ -58,7 +58,7 @@ A backend engineer dedicated to his craft, ensuring the servers always run smoot
 
 ## Levine
 
-Artist
+#### Artist
 
 ![](../.gitbook/assets/tu-pian-8.jpg)
 
