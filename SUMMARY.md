@@ -5,6 +5,8 @@
 ## 游戏介绍 <a id="intro"></a>
 
 * [设计目标](intro/design-goal.md)
+* [竞品分析](intro/jing-pin-fen-xi.md)
+* [独特卖点](intro/du-te-mai-dian.md)
 
 ## 美术设计 <a id="art"></a>
 
