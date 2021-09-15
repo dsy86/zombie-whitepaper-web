@@ -23,7 +23,7 @@
 
 ## 通证经济设计 <a id="tokenomics"></a>
 
-* [通证设计思路](tokenomics/tokenomics-thinking.md)
+* [通证经济模型](tokenomics/tokenomics-thinking.md)
 * [通证功能](tokenomics/token-feature.md)
 * [通证分配](tokenomics/token-sale.md)
 
