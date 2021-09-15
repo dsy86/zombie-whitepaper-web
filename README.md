@@ -4,6 +4,8 @@ description: 超过瘾的NFT丧尸对战元宇宙游戏来啦！
 
 # Zombie Fight Club
 
+
+
 ![](.gitbook/assets/001-logo.png)
 
 > 🧟 超过瘾的NFT丧尸对战元宇宙游戏来啦！  
