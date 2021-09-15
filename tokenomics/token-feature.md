@@ -1,8 +1,8 @@
 # 通证功能
 
-## $Zom
+## $Zom <a id="zom"></a>
 
-![](../.gitbook/assets/000-biao-tou-huo-bi-2.png)
+![](../.gitbook/assets/jin-bi-.png)
 
 $Zom是此项目中的主要通证，对此项目生态系统的可持续性经济中发挥着至关重要的作用。可以直接在去中心化交易所中进行交易。未来考虑上线中心化交易所。
 
@@ -10,7 +10,7 @@ $Zom通过游戏内的冒险模式和庇护所经营玩法中固定产出，还�
 
 长期价值中，鼓励社区成员创作第三方应用，将$Zom作为所有第一方第三方应用的通用通证，鼓励用户持有并支持整个元宇宙生态。
 
-## $Zombie NFT
+## $Zombie NFT <a id="zombie-nft"></a>
 
 ![](../.gitbook/assets/icon_item_9012.png)
 
