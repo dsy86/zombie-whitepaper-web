@@ -27,6 +27,6 @@
 
 ## 开发计划 <a id="plan"></a>
 
-* [团队成员](plan/team.md)
+* [Team Members & Advisors](plan/team.md)
 * [Roadmap](plan/roadmap.md)
 
