@@ -14,7 +14,7 @@
 
 ### 一个完美基因情况下的突变例子
 
-假如协作者1的P、H1、H2、H3位AVATAR基因全部相同，都是MrWhite，而协作者2的全部AVATAR基因位也都是MrWhite，那么——若没有突变设定——则新Fighter会100%继承MrWhite基因。但净化车间的不稳定导致新Fighter有25%的几率造成突变，因此全新Fighter有75%的几率未突变，仍然继承MrWhite，25%的几率突变为Heisenberg。
+假如协作者1的P、H1、H2、H3位AVATAR基因全部相同，都是MrWhite，而协作者2的全部AVATAR基因位也都是MrWhite，那么——若没有突变设定——则新Fighter会100%继承MrWhite基因。但净化车间的不稳定导致新Fighter有25%的几率突变，因此全新Fighter有75%的几率未突变，仍然继承MrWhite，25%的几率突变为Heisenberg。
 
 但是，实际的突变几率将会低于25%。因为双方协作者的8个基因位全部相同的几率实在是太低了。
 
