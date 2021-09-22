@@ -1,6 +1,6 @@
 # 交易市场
 
-交易市场是一个NFT去中心化交易所，玩家可以在这里自由买卖Fighter，还可以购买 & 开启盲盒。
+交易市场是一个NFT去中心化交易所，玩家可以在这里自由买卖Fighter和僵尸NFT。
 
 ![](../.gitbook/assets/iphone-12-pro-3x.png)
 

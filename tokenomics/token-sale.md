@@ -41,7 +41,7 @@ $Zom通证总发行量：100M
 
 ## 创世纪 Fighter NFT <a id="zombie-nft-sale"></a>
 
-创世纪Fighter NFT发行总量：100000
+创世Fighter NFT发行总量：100000
 
 | 发售轮次 | 盲盒总量 | 盲盒单价 | USD总价 |
 | :---: | :---: | :---: | :---: |
