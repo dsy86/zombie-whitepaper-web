@@ -33,6 +33,7 @@
 * [玩家回报推演](tokenomics/wan-jia-hui-bao-tui-yan.md)
 * [通证功能](tokenomics/token-feature.md)
 * [通证分配](tokenomics/token-sale.md)
+* [Zombie Fight Club](tokenomics/zombie-fight-club.md)
 
 ## 开发计划 <a id="plan"></a>
 
