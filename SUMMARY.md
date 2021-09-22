@@ -17,13 +17,18 @@
 
 * [游戏目标](gameplay/player-target.md)
 * [Fighters](gameplay/fighters.md)
-* [经营庇护所](gameplay/manage-club.md)
 * [战斗](gameplay/battle.md)
+* [净化](gameplay/jing-hua.md)
+* [基因组](gameplay/ji-yin-zu.md)
+* [突变](gameplay/tu-bian.md)
+* [经营](gameplay/manage-club.md)
 * [交易市场](gameplay/marketplace.md)
 
 ## 通证经济设计 <a id="tokenomics"></a>
 
-* [通证经济模型](tokenomics/tokenomics-thinking.md)
+* [动态经济模型](tokenomics/tokenomics-thinking.md)
+* [静态经济模型](tokenomics/jing-tai-jing-ji-mo-xing.md)
+* [玩家回报推演](tokenomics/wan-jia-hui-bao-tui-yan.md)
 * [通证功能](tokenomics/token-feature.md)
 * [通证分配](tokenomics/token-sale.md)
 

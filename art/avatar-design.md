@@ -8,9 +8,15 @@
 
 目前已经完成了340+完全不同风格各异的Fighter形象，并且仍在不断增加中。
 
-## 稀有变异AVATAR <a id="rare-avatars"></a>
+## 稀有突变AVATAR <a id="rare-avatars"></a>
 
-在目前已完成的340+Fighter形象的基础上，我们为其中一部分Fighter Avatar再次设计了稀有的变异后形象，变异形象可以认为是普通形象的全新进化。
+在目前已完成的340+Fighter形象的基础上，我们为其中一部分Fighter Avatar再次设计了稀有的突变后形象，突变形象可以认为是普通形象的全新进化。
 
 ![&#x56FE;&#xFF1A;&#x6B63;&#x5E38;AVATAR&#x4E0E;&#x53D8;&#x5F02;&#x540E;AVATAR](../.gitbook/assets/1.png)
+
+有关AVATAR突变的详细规则，见：
+
+{% page-ref page="../gameplay/ji-yin-zu.md" %}
+
+
 
