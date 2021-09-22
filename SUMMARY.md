@@ -28,7 +28,7 @@
 
 * [静态经济模型](tokenomics/jing-tai-jing-ji-mo-xing.md)
 * [动态经济模型](tokenomics/tokenomics-thinking.md)
-* [玩家经济特性分类设定](tokenomics/wan-jia-jing-ji-te-xing-fen-lei-she-ding.md)
+* [玩家的经济特性设定](tokenomics/wan-jia-jing-ji-te-xing-fen-lei-she-ding.md)
 * [玩家回报推演](tokenomics/wan-jia-hui-bao-tui-yan.md)
 * [通证功能](tokenomics/token-feature.md)
 * [通证分配](tokenomics/token-sale.md)
