@@ -26,8 +26,8 @@
 
 ## 通证经济设计 <a id="tokenomics"></a>
 
-* [动态经济模型](tokenomics/tokenomics-thinking.md)
 * [静态经济模型](tokenomics/jing-tai-jing-ji-mo-xing.md)
+* [动态经济模型](tokenomics/tokenomics-thinking.md)
 * [玩家回报推演](tokenomics/wan-jia-hui-bao-tui-yan.md)
 * [通证功能](tokenomics/token-feature.md)
 * [通证分配](tokenomics/token-sale.md)

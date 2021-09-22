@@ -12,7 +12,7 @@
 
 在目前已完成的340+Fighter形象的基础上，我们为其中一部分Fighter Avatar再次设计了稀有的突变后形象，突变形象可以认为是普通形象的全新进化。
 
-![&#x56FE;&#xFF1A;&#x6B63;&#x5E38;AVATAR&#x4E0E;&#x53D8;&#x5F02;&#x540E;AVATAR](../.gitbook/assets/1.png)
+![&#x56FE;&#xFF1A;&#x6B63;&#x5E38;AVATAR&#x4E0E;&#x7A81;&#x53D8;&#x540E;AVATAR](../.gitbook/assets/1.png)
 
 有关AVATAR突变的详细规则，见：
 
