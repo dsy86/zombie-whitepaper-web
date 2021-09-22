@@ -17,6 +17,7 @@
 
 * [游戏目标](gameplay/player-target.md)
 * [Fighters](gameplay/fighters.md)
+* [僵尸](gameplay/jiang-shi.md)
 * [战斗](gameplay/battle.md)
 * [净化](gameplay/jing-hua.md)
 * [基因组](gameplay/ji-yin-zu.md)
