@@ -10,7 +10,7 @@
 
 当被继承自双方协作者的AVATAR形象完全相同的情况下，新Fighter就有几率突变为一种全新的AVATAR形象了。突变的几率是25%。
 
-随着项目开发进程，具备突变特性的AVATAR形象基因正在逐渐增加中。在未来，每个AVATAR形象都有一个完全对应的突变AVATAR形象。例如：某个AVATAR被命名为MrWhite，这个AVATAR突变后会被命名为Heisenberg。
+随着项目开发进程，具备突变特性的AVATAR形象基因正在逐渐增加中。在未来，每个AVATAR形象都将有对应的最多4层的突变AVATAR形象。例如：某个AVATAR被命名为MrWhite，这个AVATAR突变后会被命名为Heisenberg。
 
 ### 一个完美基因情况下的突变例子
 
