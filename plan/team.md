@@ -4,7 +4,7 @@
 
 #### Founder & CEO
 
-![](../.gitbook/assets/tu-pian-1.png)
+![](../.gitbook/assets/22.png)
 
 17 years of experience in the video game industry, recognized with "Golden Producer" honor. Specializes in growth strategy and team scaling.
 
@@ -63,4 +63,3 @@ A backend engineer dedicated to his craft, ensuring the servers always run smoot
 ![](../.gitbook/assets/tu-pian-8.jpg)
 
 A talented and versatile artist, the beauty of her creations is matched only by her own.
-
